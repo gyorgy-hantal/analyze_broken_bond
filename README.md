@@ -11,8 +11,9 @@ This python script attempts to correlate a big bunch of structural descriptors, 
 This version of the script considers only the sulfone bond ("ca-sy") as it is found more prone to breake than any other bonds.
 
 Requirements: 
-'''
+```
 python==3.9.6
 numpy==1.26.4
 mdtraj==1.10.3
-matplotlib==3.9.1.post1 '''
+matplotlib==3.9.1.post1
+```
